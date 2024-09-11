@@ -6,7 +6,6 @@ On the frontend, I leveraged React for its component-based architecture, ensurin
 
 I used axios to connect the frontend with the backend, enabling real-time data retrieval and smooth transitions between pages. The search and filter options dynamically update the content based on user input, enhancing the overall user experience.
 
-After completing the development, I deployed the application on Firebase, making it accessible online. The entire process involved API integration, backend logic, frontend design, and deployment, resulting in a user-friendly, responsive, and scalable web application."![Screenshot 2024-09-11 115717](https://github.com/user-attachments/assets/32101429-50ef-412a-8e67-cfc21f0020e3)
+After completing the development, I deployed the application on Firebase, making it accessible online. The entire process involved API integration, backend logic, frontend design, and deployment, resulting in a user-friendly, responsive, and scalable web application.
 )
-![Screenshot 2024-09-11 115145](https://github.com/user-attachments/assets/295e7226-481d-4fd6-96b7-544ad4b009c3)
-![Screenshot 2024-09-11 115701](https://github.com/user-attachments/assets/454d927c-fdd1-4586-9ae5-49eb66c3d4a6)
+
