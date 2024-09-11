@@ -10,3 +10,9 @@ I used axios to connect the frontend with the backend, enabling real-time data r
 After completing the development, I deployed the application on Firebase, making it accessible online. The entire process involved API integration, backend logic, frontend design, and deployment, resulting in a user-friendly, responsive, and scalable web application.
 )
 
+![Screenshot 2024-09-11 145854](https://github.com/user-attachments/assets/4eda247c-7ce3-4ce3-b00f-e21415ffac81)
+![Screenshot 2024-09-11 150057](https://github.com/user-attachments/assets/ff87af16-e8c6-4c5d-9263-6a0cd3c69475)
+![Screenshot 2024-09-11 150027](https://github.com/user-attachments/assets/f0e2fefc-bf59-4445-8049-0535ca6847d8)
+![Screenshot 2024-09-11 145954](https://github.com/user-attachments/assets/75c0a1e2-a5ea-41f5-8ef1-026968a6268d)
+![Screenshot 2024-09-11 145924](https://github.com/user-attachments/assets/1cdc5d96-4d3c-4c14-a043-95d4a08a9a0c)
+![Screenshot 2024-09-11 145907](https://github.com/user-attachments/assets/8d65c32a-2ead-4857-b0aa-a9d994bb4d2b)
