@@ -13,8 +13,6 @@ After completing the development, I deployed the application on Firebase, making
 ![Screenshot 2024-09-11 145907](https://github.com/user-attachments/assets/95544255-3546-48e2-ad47-e9af48807fa5)
 ![Screenshot 2024-09-11 145924](https://github.com/user-attachments/assets/dd58c3e7-3b21-4435-b4db-8cda17412c9a)
 ![Screenshot 2024-09-11 145954](https://github.com/user-attachments/assets/de242cef-1fd1-4ad7-ac82-93f09e5677ab)
-![Screenshot 2024-09-11 145924](https://github.com/user-attachments/assets/a1eb7b2a-23d8-45ff-b4a2-4f3c54570a67)
-![Screenshot 2024-09-11 145907](https://github.com/user-attachments/assets/2a6e17d4-f766-457c-a8fd-b7929cef94e9)
 ![Screenshot 2024-09-11 145854](https://github.com/user-attachments/assets/8090580a-5a6a-49fa-97d0-9dde262efb70)
 ![Screenshot 2024-09-11 150057](https://github.com/user-attachments/assets/cca0873e-e920-4bca-b711-53c1ff95d563)
 ![Screenshot 2024-09-11 150027](https://github.com/user-attachments/assets/f6b345b9-2e31-4954-9333-249afaeb9525)
